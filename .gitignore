@@ -1,0 +1,7 @@
+.DS_Store
+build.noindex/
+DerivedData/
+*.xcodeproj/
+Config/Local.xcconfig
+research/
+dist/
